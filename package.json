@@ -1,0 +1,14 @@
+{
+  "name": "inciyarakos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node_src/index.js",
+  "scripts": {
+    "test": "node node_src/index.js"
+  },
+  "author": "Yasir Eymen KAYABAŞI",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
